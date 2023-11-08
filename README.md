@@ -1,0 +1,1 @@
+# ResponsiveParagraph-word-count
